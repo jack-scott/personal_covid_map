@@ -1,0 +1,6140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9153888082261,
+          151.200224099971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Express Alexandria"
+      },
+      "id": "3"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9153888082261,
+          151.200224099971,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Express Alexandria"
+      },
+      "id": "5"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8820300761591,
+          151.173976309572,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Precinct 37 Cafe"
+      },
+      "id": "7"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8771775278048,
+          151.129504534018,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Ashfield"
+      },
+      "id": "9"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8771775278048,
+          151.129504534018,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Ashfield"
+      },
+      "id": "11"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8904382,
+          151.126918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Supercheap Auto Ashfield"
+      },
+      "id": "13"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8520870045411,
+          151.031874844993,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Auburn Supermarket"
+      },
+      "id": "15"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8501436114731,
+          151.031777868554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Auburn Chickens"
+      },
+      "id": "17"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8501436114731,
+          151.031777868554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Pharmacy"
+      },
+      "id": "19"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8504466464891,
+          151.032171095247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Shopping Centre"
+      },
+      "id": "21"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8495678711991,
+          151.031989413463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Sunshine Fruit"
+      },
+      "id": "23"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8501436114731,
+          151.031777868554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Sunshine Fruit"
+      },
+      "id": "25"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8495678711991,
+          151.031989413463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Sunshine Fruit"
+      },
+      "id": "27"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8501436114731,
+          151.031777868554,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Central Woolworths"
+      },
+      "id": "29"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8518514356075,
+          151.0324762,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn Fresh City Fruit and Vegetables"
+      },
+      "id": "31"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "33"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "35"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "37"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "39"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "41"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "43"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.849969766464,
+          151.032463278755,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Auburn town centre"
+      },
+      "id": "45"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8497801747019,
+          151.032938626958,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Davids Asian Food Supermarket "
+      },
+      "id": "47"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8487207661209,
+          151.033538728804,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hamro Asan Bazarr"
+      },
+      "id": "49"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8504204924983,
+          151.032968558273,
+          0
+        ]
+      },
+      "properties": {
+        "name": "New Star Kebabs"
+      },
+      "id": "51"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8496166331496,
+          151.031645469279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pindi Supermarket"
+      },
+      "id": "53"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8474821498553,
+          151.031316207495,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sahar Market Auburn"
+      },
+      "id": "55"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8496307815825,
+          151.032893695853,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wing Fat Meat Market"
+      },
+      "id": "57"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.6365506672384,
+          151.329861677678,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Avalons Organic"
+      },
+      "id": "59"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.6359889057914,
+          151.33040653739,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Avalon"
+      },
+      "id": "61"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.6359227357419,
+          151.330021234047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Avalon Beach"
+      },
+      "id": "63"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9168005097526,
+          151.037937975181,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bankstown Central Shopping Centre"
+      },
+      "id": "65"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9167836363213,
+          151.035937042466,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bankstown Central Shopping Centre"
+      },
+      "id": "67"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.931826955652,
+          151.030299220738,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blueys Swim School"
+      },
+      "id": "69"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9352509627469,
+          151.035571568557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bomboniere Factory"
+      },
+      "id": "71"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9161808828903,
+          151.039576439064,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crunch Fitness Bankstown"
+      },
+      "id": "73"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9130258141026,
+          151.033872355795,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PappaRich Restaurant  Little Saigon Plaza"
+      },
+      "id": "75"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9154835404768,
+          151.038407785336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rebel Bankstown Shopping Centre"
+      },
+      "id": "77"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9022286938074,
+          151.083923980917,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bridge of Belfield Pharmacy"
+      },
+      "id": "79"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.918975,
+          151.0868008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crust Pizza"
+      },
+      "id": "81"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.923682,
+          151.0883014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Youies "
+      },
+      "id": "83"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.923682,
+          151.0883014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Youies  "
+      },
+      "id": "85"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9459390435217,
+          151.127957539632,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St Mary and Mina Coptic Orthodox Cathedral Bexley "
+      },
+      "id": "87"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7432591314461,
+          150.608575469285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Supa IGA Blaxland"
+      },
+      "id": "89"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7432591314461,
+          150.608575469285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Supa IGA Blaxland"
+      },
+      "id": "91"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8853876621537,
+          151.274055098124,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blair St Dairy "
+      },
+      "id": "93"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "95"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "97"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "99"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "101"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "103"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8885762629677,
+          151.270978055504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyfe Cafe"
+      },
+      "id": "105"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8857069758382,
+          151.273650728805,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Organic Republic Bakery"
+      },
+      "id": "107"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8857069758382,
+          151.273650728805,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Organic Republic Bakery"
+      },
+      "id": "109"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8857069758382,
+          151.273650728805,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Organic Republic Bakery"
+      },
+      "id": "111"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8895210391994,
+          151.281119131692,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Porch and Parlour"
+      },
+      "id": "113"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8889686612986,
+          151.270884099851,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Bites"
+      },
+      "id": "115"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8901570634671,
+          151.274733354105,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bite Box Kebabs"
+      },
+      "id": "117"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8896144203436,
+          151.272293784457,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harris Farm Bondi Beach "
+      },
+      "id": "119"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.885813869485,
+          151.273477713464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "121"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.885813869485,
+          151.273477713464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "123"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.885813869485,
+          151.273477713464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "125"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8859873680351,
+          151.273543771533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "127"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8859873680351,
+          151.273543771533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "129"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8859873680351,
+          151.273543771533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "La Piadina"
+      },
+      "id": "131"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8898665973526,
+          151.275055155794,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McDonalds Bondi Beach"
+      },
+      "id": "133"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8899289208147,
+          151.275033694788,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McDonalds Bondi Beach "
+      },
+      "id": "135"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8903792957547,
+          151.274527388322,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oporto Bondi Beach"
+      },
+      "id": "137"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.893189575624,
+          151.248674704141,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Eastgate Bondi Junction"
+      },
+      "id": "139"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8920912550139,
+          151.247632757374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Bondi Junction"
+      },
+      "id": "141"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8920912550139,
+          151.247632757374,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Bondi Junction"
+      },
+      "id": "143"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.893189575624,
+          151.248674704141,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Bondi Eastgate"
+      },
+      "id": "145"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction "
+      },
+      "id": "147"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction "
+      },
+      "id": "149"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction - Patrons only"
+      },
+      "id": "151"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction - Patrons only"
+      },
+      "id": "153"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction - Staff only"
+      },
+      "id": "155"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8927158098477,
+          151.248021457665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Eastgate Bondi Junction - Staff only"
+      },
+      "id": "157"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8920909277814,
+          151.249238684629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fitness First Bondi Junction Spring Street"
+      },
+      "id": "159"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8922957344306,
+          151.249678569522,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fitness First Bondi Junction Spring Street"
+      },
+      "id": "161"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8917582386855,
+          151.250858715502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gusto Espresso Bar Cafe"
+      },
+      "id": "163"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918719095206,
+          151.250702469289,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harvey Norman Westfield Bondi Junction "
+      },
+      "id": "165"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8960324439378,
+          151.251064955794,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jaycar Bondi Junction"
+      },
+      "id": "167"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8923961662647,
+          151.247810864748,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Specsavers Bondi Junction Eastgate"
+      },
+      "id": "169"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8912285548441,
+          151.25132452279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Bondi Junction"
+      },
+      "id": "171"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8931400055281,
+          150.890092693898,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Bonnyrigg"
+      },
+      "id": "173"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8882276483498,
+          150.8811561672,
+          0
+        ]
+      },
+      "properties": {
+        "name": "McDonalds Bonnyrigg "
+      },
+      "id": "175"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8862086188435,
+          150.888444437451,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Bonnyrigg Plaza "
+      },
+      "id": "177"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8890651319362,
+          150.885581582783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Bonnyrigg"
+      },
+      "id": "179"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.885805517243,
+          150.888584768649,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Bonnyrigg Plaza "
+      },
+      "id": "181"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8644560442089,
+          150.880741646421,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Club Marconi (whole venue)"
+      },
+      "id": "183"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8644560442089,
+          150.880741646421,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Club Marconi (whole venue)"
+      },
+      "id": "185"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9451906436582,
+          151.193472050537,
+          0
+        ]
+      },
+      "properties": {
+        "name": "One Drop Brewing Co "
+      },
+      "id": "187"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9403167341204,
+          151.196517634863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Service NSW Botany"
+      },
+      "id": "189"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9403167341204,
+          151.196517634863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Service NSW Botany"
+      },
+      "id": "191"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9403167341204,
+          151.196517634863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Service NSW Botany"
+      },
+      "id": "193"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8773056971413,
+          151.103496410437,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Burwood Hotel"
+      },
+      "id": "195"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "BWS Westfield Burwood"
+      },
+      "id": "197"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8785059933938,
+          151.103617194801,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank ATMs Burwood"
+      },
+      "id": "199"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8785059933938,
+          151.103617194801,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank ATMs Burwood"
+      },
+      "id": "201"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8781922756606,
+          151.102174671694,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Emerald Square Burwood"
+      },
+      "id": "203"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8770666705213,
+          151.102377215683,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Evergreen Fresh World Burwood Plaza"
+      },
+      "id": "205"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Footlocker Westfield Burwood"
+      },
+      "id": "207"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fresh Nails Westfield Burwood"
+      },
+      "id": "209"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8744472567734,
+          151.105831326958,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu Westfield Burwood"
+      },
+      "id": "211"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Westfield Burwood"
+      },
+      "id": "213"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Westfield Burwood"
+      },
+      "id": "215"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8742377412071,
+          151.105097555794,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mehfil North Indian Cuisine Westfield Burwood"
+      },
+      "id": "217"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8734220727979,
+          151.104599781122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Midtown Barber Shop"
+      },
+      "id": "219"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.877148190893,
+          151.102824979392,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MyHealth Burwood Plaza"
+      },
+      "id": "221"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sushi Hub Kiosk Westfield Burwood"
+      },
+      "id": "223"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738969219152,
+          151.104590180502,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westfield Burwood"
+      },
+      "id": "225"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8738434938051,
+          151.104665284629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westfield Burwood"
+      },
+      "id": "227"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8765816739863,
+          151.104829265663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yangs Dumplings Burwood"
+      },
+      "id": "229"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.878084302358,
+          151.102682833066,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meatfish"
+      },
+      "id": "231"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9225962340237,
+          151.102421058995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Clemton Park Shopping Village"
+      },
+      "id": "233"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9226090019917,
+          151.102350495016,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liquorland Clemton Park Village"
+      },
+      "id": "235"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9103165216379,
+          151.119791101688,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Canterbury"
+      },
+      "id": "237"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.0258830238969,
+          151.129851229295,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Taren Point"
+      },
+      "id": "239"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7776936778907,
+          151.052176098121,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Carlingford"
+      },
+      "id": "241"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9375660348346,
+          150.844926552601,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CTC Tobacconist Carnes Hill"
+      },
+      "id": "243"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.958894109283,
+          150.878920913466,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Costco Casula"
+      },
+      "id": "245"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.958894109283,
+          150.878920913466,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Costco Casula"
+      },
+      "id": "247"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7956535796092,
+          151.184057192116,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Guzman Y Gomez "
+      },
+      "id": "249"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8924134506027,
+          151.060935409336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Chullora Marketplace"
+      },
+      "id": "251"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9230428958367,
+          151.102664611873,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Clemton Village "
+      },
+      "id": "253"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.930602139229,
+          151.011920539543,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Metro Petroleum Condell Park"
+      },
+      "id": "255"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9201233942045,
+          151.254648013672,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Metro Coogee"
+      },
+      "id": "257"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8882931234321,
+          151.116006466298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ampol Foodary service station Croydon"
+      },
+      "id": "259"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8943206,
+          151.1092411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "7 Eleven Croydon Park"
+      },
+      "id": "261"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8943206,
+          151.1092411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "7 Eleven Croydon Park"
+      },
+      "id": "263"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8943206,
+          151.1092411,
+          0
+        ]
+      },
+      "properties": {
+        "name": "7 Eleven Croydon Park"
+      },
+      "id": "265"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8781166851733,
+          151.244813484629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Double Bay                "
+      },
+      "id": "267"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8781166851733,
+          151.244813484629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Double Bay                "
+      },
+      "id": "269"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8725709257273,
+          151.280627769893,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Archies Cafe Co"
+      },
+      "id": "271"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.855240378756,
+          151.162668902191,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Drummoyne"
+      },
+      "id": "273"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9276542243662,
+          151.10916838463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Nieos Grille Earlwood "
+      },
+      "id": "275"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7838982923549,
+          150.854360778023,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eastern Creek Quarter - Fruitworld"
+      },
+      "id": "277"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7838982923549,
+          150.854360778023,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eastern Creek Quarter - rest of shopping centre"
+      },
+      "id": "279"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9445870818582,
+          151.224419210885,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big W Eastgardens "
+      },
+      "id": "281"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9439313493351,
+          151.223566909972,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big W Eastgardens "
+      },
+      "id": "283"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.94407824537,
+          151.223510588789,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big W Eastgardens "
+      },
+      "id": "285"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9444029,
+          151.2223291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Breadtop Eastgardens"
+      },
+      "id": "287"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9445870818582,
+          151.224419210885,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EB Games Eastgardens"
+      },
+      "id": "289"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9447856470643,
+          151.22431320658,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Eastgardens "
+      },
+      "id": "291"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9447856470643,
+          151.22431320658,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Eastgardens "
+      },
+      "id": "293"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9446173302722,
+          151.223047528045,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Level 2 Food Court Eastgardens"
+      },
+      "id": "295"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9443496260666,
+          151.225190472247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Level 3 Childrens Play Area (next to Woolworths) Eastgardens"
+      },
+      "id": "297"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9442856719375,
+          151.223685246459,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Reject Shop Eastgardens"
+      },
+      "id": "299"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9442310723747,
+          151.223229940455,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tong Li Asian Grocery Eastgardens"
+      },
+      "id": "301"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9446937915301,
+          151.224302342324,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westfield Eastgardens (rest of shopping centre)"
+      },
+      "id": "303"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9442977468348,
+          151.224974335415,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Eastgardens "
+      },
+      "id": "305"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9252326108025,
+          151.21199993753,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Australia Post Office"
+      },
+      "id": "307"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9250178974548,
+          151.211485051812,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eastlakes Shopping Centre"
+      },
+      "id": "309"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9256512062285,
+          151.211510752504,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Eastlakes Shopping Centre"
+      },
+      "id": "311"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8825457,
+          150.8865633,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Freds One Stop Shopping "
+      },
+      "id": "313"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9557508007393,
+          150.865135342299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frango Charcoal Chicken Edmondson Park"
+      },
+      "id": "315"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8719570928025,
+          151.225566806954,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Allied Mart"
+      },
+      "id": "317"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8668435,
+          150.9502832,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Fairfield Forum"
+      },
+      "id": "319"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8694505628627,
+          151.129239381126,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bendos Premium Meats "
+      },
+      "id": "321"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8693392800077,
+          151.129217937323,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Five Dock"
+      },
+      "id": "323"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8679923364416,
+          151.128601641585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Five Dock"
+      },
+      "id": "325"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8692510879575,
+          151.113659366532,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Officeworks Five Dock "
+      },
+      "id": "327"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8692935302882,
+          151.113925264836,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pharmacy 4 Less Five Dock"
+      },
+      "id": "329"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8282512725617,
+          151.129167852598,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cellarbrations "
+      },
+      "id": "331"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8263197721897,
+          151.126297606572,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dan Murphys Gladesville"
+      },
+      "id": "333"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8322445043492,
+          151.127833501611,
+          0
+        ]
+      },
+      "properties": {
+        "name": "On Cowell "
+      },
+      "id": "335"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8325814839882,
+          151.127338979396,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TAB Gladesville"
+      },
+      "id": "337"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8342523,
+          151.0086488,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Granville"
+      },
+      "id": "339"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8317967495523,
+          151.012966197477,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Metro Granville "
+      },
+      "id": "341"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8803183260117,
+          151.138677424651,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Happyfield "
+      },
+      "id": "343"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8783389138761,
+          151.207190723172,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jarern Chai Grocer and Boon Cafe"
+      },
+      "id": "345"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.949221180634,
+          151.224462339721,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Eastgardens"
+      },
+      "id": "347"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9486802173489,
+          151.224511635719,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Eastgardens"
+      },
+      "id": "349"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9515093594037,
+          151.230846819239,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hillsdale "
+      },
+      "id": "351"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517228514178,
+          151.231631786879,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hillsdale - Patrons only"
+      },
+      "id": "353"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517228514178,
+          151.231631786879,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hillsdale - Patrons only"
+      },
+      "id": "355"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517228514178,
+          151.231631786879,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hillsdale - Staff only"
+      },
+      "id": "357"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517228514178,
+          151.231631786879,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hillsdale - Staff only"
+      },
+      "id": "359"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8651787634282,
+          151.071163411617,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Di Yuan Asian Groceries"
+      },
+      "id": "361"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8651570506144,
+          151.070828399969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "K.W. Barbeque Shop "
+      },
+      "id": "363"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8662328886649,
+          151.070159239758,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rams Food"
+      },
+      "id": "365"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8651367292489,
+          151.070820084629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tan Huong Long Supermarket"
+      },
+      "id": "367"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8219894596251,
+          151.134351935399,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Boronia Park Gourmet Charcoal Chicken "
+      },
+      "id": "369"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9659754062017,
+          151.105123379169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adams Apple Westfield Hurstville"
+      },
+      "id": "371"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.966661999702,
+          151.104422269282,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Westfield Hurstville"
+      },
+      "id": "373"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.966010998167,
+          151.105166295591,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Hurstville Westfield"
+      },
+      "id": "375"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.966082743638,
+          151.105306086803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hurstville Westfield (all other locations) "
+      },
+      "id": "377"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9664141240356,
+          151.10393156929,
+          0
+        ]
+      },
+      "properties": {
+        "name": "King Tea Hurstville"
+      },
+      "id": "379"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.966082743638,
+          151.105306086803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "TG Farm Chickens, Westfield, Hurstville "
+      },
+      "id": "381"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9659754062017,
+          151.105123379169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westfield Hurstville"
+      },
+      "id": "383"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9654389127206,
+          151.105898882785,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Hurstville"
+      },
+      "id": "385"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9973291,
+          151.040365,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charlie's Grill Chicken and Seafood "
+      },
+      "id": "387"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9410484433927,
+          151.10084762146,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beautique Nail Spa "
+      },
+      "id": "389"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9343405124618,
+          151.098934126387,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Kingsgrove"
+      },
+      "id": "391"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.941010042729,
+          151.100519507953,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Macchina Espresso"
+      },
+      "id": "393"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.028135226987,
+          151.074105667865,
+          0
+        ]
+      },
+      "properties": {
+        "name": "AJ andpm Sales, Kirrawee Lighting showroom floor (Upstairs)"
+      },
+      "id": "395"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.028135226987,
+          151.074105667865,
+          0
+        ]
+      },
+      "properties": {
+        "name": "AJ andpm Sales, Kirrawee Trade shop floor (Ground floor)"
+      },
+      "id": "397"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.0302407713539,
+          151.075676524175,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Kirrawee"
+      },
+      "id": "399"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8462477799322,
+          151.213403439073,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gelatissimo "
+      },
+      "id": "401"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9242800227171,
+          151.079685790169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Lakemba"
+      },
+      "id": "403"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9189857779515,
+          151.076440980503,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fresh Quality Fruit and Vegetables "
+      },
+      "id": "405"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9209082231978,
+          151.077898969289,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Haldon Street Medical Centre"
+      },
+      "id": "407"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9186423698586,
+          151.076415715407,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hop Hung Asian Grocery"
+      },
+      "id": "409"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9182653,
+          151.0735616,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Lakemba"
+      },
+      "id": "411"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8163168429743,
+          151.151456296802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ampol service station Lane Cove"
+      },
+      "id": "413"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8163311970509,
+          151.152240773436,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ampol Woolworths Metro Lane Cove"
+      },
+      "id": "415"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8780628143188,
+          151.147488295471,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cafe Bones"
+      },
+      "id": "417"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8640054478314,
+          151.043618783099,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dotori Fresh Sushi"
+      },
+      "id": "419"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.985266718792,
+          150.89269731534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glenquarie Hotel"
+      },
+      "id": "421"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.985266718792,
+          150.89269731534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glenquarie Hotel"
+      },
+      "id": "423"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.985266718792,
+          150.89269731534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Glenquarie Hotel"
+      },
+      "id": "425"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9868672490447,
+          150.89080015395,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Glenquarie Town Centre"
+      },
+      "id": "427"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.795099539381,
+          151.287254684067,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Novotel Manly"
+      },
+      "id": "429"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.795233268807,
+          151.287769673158,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Novotel Manly - Bistro"
+      },
+      "id": "431"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9418069521839,
+          151.241046117158,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Maroubra"
+      },
+      "id": "433"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9406154283718,
+          151.239273778191,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Maroubra Junction"
+      },
+      "id": "435"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9406154283718,
+          151.239273778191,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Maroubra Junction"
+      },
+      "id": "437"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9404730346709,
+          151.238372550451,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Maroubra Junction"
+      },
+      "id": "439"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9503993367529,
+          151.238915900323,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Des Renford Swimming Pool "
+      },
+      "id": "441"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9503993367529,
+          151.238915900323,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Des Renford Swimming Pool "
+      },
+      "id": "443"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9403466654914,
+          151.23251062696,
+          0
+        ]
+      },
+      "properties": {
+        "name": "First Choice Liquor"
+      },
+      "id": "445"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.940373337232,
+          151.233068525935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "First Choice Liquor Maroubra"
+      },
+      "id": "447"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9406412430526,
+          151.238441752717,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fitness First Maroubra"
+      },
+      "id": "449"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9410003429559,
+          151.238898265718,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Freshworld Fruit Market Pacific Square"
+      },
+      "id": "451"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411783516433,
+          151.239252322839,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fruit World fruit shop - Pacific Square"
+      },
+      "id": "453"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.940367344982,
+          151.2382586535,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mad Mex - Pacific Square"
+      },
+      "id": "455"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.940367344982,
+          151.2382586535,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mad Mex - Pacific Square"
+      },
+      "id": "457"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "459"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "461"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "463"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "465"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "467"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "469"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shoping centre"
+      },
+      "id": "471"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shopping Centre "
+      },
+      "id": "473"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9411244279186,
+          151.239319929914,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pacific Square Shopping Centre "
+      },
+      "id": "475"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.940712436868,
+          151.239064028243,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rolld Vietnamese - Pacific Square"
+      },
+      "id": "477"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9410232637222,
+          151.238478955158,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Maroubra Pacific Square "
+      },
+      "id": "479"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9071665410874,
+          151.171505865291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Marrickville Metro"
+      },
+      "id": "481"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9069264812367,
+          151.172595990562,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Marrickville Metro"
+      },
+      "id": "483"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9111453071457,
+          151.164714910474,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Everest Takeaway Cafe"
+      },
+      "id": "485"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9111453071457,
+          151.164714910474,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Everest Takeaway Cafe"
+      },
+      "id": "487"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9111453071457,
+          151.164714910474,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Everest Takeaway Cafe"
+      },
+      "id": "489"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9066331494226,
+          151.17213190409,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Exquisite Brows and Spa"
+      },
+      "id": "491"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9109112612907,
+          151.165699700174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Ocean Foods"
+      },
+      "id": "493"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9109112612907,
+          151.165699700174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Ocean Foods"
+      },
+      "id": "495"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9109112612907,
+          151.165699700174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Ocean Foods"
+      },
+      "id": "497"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9109112612907,
+          151.165699700174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Ocean Foods"
+      },
+      "id": "499"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9109112612907,
+          151.165699700174,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Great Ocean Foods"
+      },
+      "id": "501"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9130406,
+          151.1625012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hop and Grain Brew Store"
+      },
+      "id": "503"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9083274224478,
+          151.17232694847,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liquorland Marrickville Dewall"
+      },
+      "id": "505"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "507"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "509"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "511"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "513"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "515"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065837758403,
+          151.17181678463,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little Hong Kong Marrickville"
+      },
+      "id": "517"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "519"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "521"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "523"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "525"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "527"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "529"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9065214128164,
+          151.172428323029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Marrickville Metro Shopping Centre"
+      },
+      "id": "531"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9066015648218,
+          151.171806052725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Panetta Mercato Marrickville"
+      },
+      "id": "533"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9227623887081,
+          151.187033126228,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cignall Tobacconist"
+      },
+      "id": "535"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9243516,
+          151.1890621,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Hotel Mascot"
+      },
+      "id": "537"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9243516,
+          151.1890621,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Hotel Mascot"
+      },
+      "id": "539"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9245943420791,
+          151.190929640973,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Hotel Mascot"
+      },
+      "id": "541"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9245943420791,
+          151.190929640973,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Hotel Mascot"
+      },
+      "id": "543"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9342651929866,
+          151.179341138362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney Airport - Domestic Terminal 2"
+      },
+      "id": "545"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9342651929866,
+          151.179341138362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney Airport - Domestic Terminal 2"
+      },
+      "id": "547"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9342651929866,
+          151.179341138362,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney Airport - Domestic Terminal 2"
+      },
+      "id": "549"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9236644,
+          151.1857729,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Top Impression Bakery Cafe"
+      },
+      "id": "551"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9577068602649,
+          151.231951071107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Matraville"
+      },
+      "id": "553"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.0180454,
+          151.0086073,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Menai "
+      },
+      "id": "555"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.0132620297072,
+          151.016174963247,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Big W Menai "
+      },
+      "id": "557"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8347708722962,
+          150.988349082782,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Merrylands"
+      },
+      "id": "559"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8368300127822,
+          150.989241455793,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Australia Post Office Merrylands"
+      },
+      "id": "561"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8345011953197,
+          150.989593155792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Merrylands"
+      },
+      "id": "563"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8343901069316,
+          150.989210226957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Merrylands Stocklands Shopping Centre"
+      },
+      "id": "565"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8364391651444,
+          150.989215238606,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sadaqat"
+      },
+      "id": "567"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9686733480804,
+          151.064914170556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Mortdale"
+      },
+      "id": "569"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8340697423862,
+          151.056700656255,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Newington "
+      },
+      "id": "571"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8638112670298,
+          151.088914607352,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fitness First Commercial Building (building C)"
+      },
+      "id": "573"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8632654623857,
+          151.088279228716,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fitness First North Strathfield"
+      },
+      "id": "575"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9806118146952,
+          151.081784972259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "East Avenue Cafe"
+      },
+      "id": "577"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9405074609148,
+          151.228435998125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shell Coles Express Pagewood"
+      },
+      "id": "579"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9405074609148,
+          151.228435998125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Shell Coles Express Pagewood"
+      },
+      "id": "581"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9564571,
+          150.9964571,
+          0
+        ]
+      },
+      "properties": {
+        "name": "IGA Panania"
+      },
+      "id": "583"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8176897941623,
+          151.000082484627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Parramatta Westfield"
+      },
+      "id": "585"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8176897941623,
+          151.000082484627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Parramatta Westfield "
+      },
+      "id": "587"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8174144755484,
+          151.000372642298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Country Growers Parramatta"
+      },
+      "id": "589"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8174144755484,
+          151.000372642298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Country Growers Parramatta "
+      },
+      "id": "591"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8187968371427,
+          151.003620655792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Spices of India"
+      },
+      "id": "593"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8176087257875,
+          151.000107626957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Westfield Parramatta (whole complex)"
+      },
+      "id": "595"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8025400153854,
+          150.955694184627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworth Metro Pendle Hill"
+      },
+      "id": "597"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8025400153854,
+          150.955694184627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworth Metro Pendle Hill"
+      },
+      "id": "599"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8962461931968,
+          151.153434806464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frangos Charcoal Chicken Petersham"
+      },
+      "id": "601"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8953260520075,
+          151.153969009122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Counter Cafe"
+      },
+      "id": "603"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8701124016491,
+          151.225210901781,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Metro Potts Point"
+      },
+      "id": "605"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8272290094792,
+          151.114863125109,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Morrison Park Cricket Nets"
+      },
+      "id": "607"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9160333902346,
+          151.240208995249,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Randwick Plaza"
+      },
+      "id": "609"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9146403836123,
+          151.240494023985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Royal Randwick"
+      },
+      "id": "611"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9146403836123,
+          151.240494023985,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Royal Randwick"
+      },
+      "id": "613"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9518034695022,
+          151.013276137307,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bakers Delight Revesby"
+      },
+      "id": "615"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9356268925827,
+          151.007878055157,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Billys Cars"
+      },
+      "id": "617"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9356268925827,
+          151.007878055157,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Billys Cars"
+      },
+      "id": "619"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9356268925827,
+          151.007878055157,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Billys Cars"
+      },
+      "id": "621"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517151740366,
+          151.0134899207,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cha Point Revesby"
+      },
+      "id": "623"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9352389356797,
+          151.007965211359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ostar International"
+      },
+      "id": "625"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9517847603069,
+          151.012446141893,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Revesby"
+      },
+      "id": "627"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9531908705337,
+          151.05152745472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Riverwood"
+      },
+      "id": "629"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9531908705337,
+          151.05152745472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Riverwood"
+      },
+      "id": "631"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9531908705337,
+          151.05152745472,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Riverwood"
+      },
+      "id": "633"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9518487734899,
+          151.051791577614,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little General Espresso Bar"
+      },
+      "id": "635"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9524185695453,
+          151.05126842444,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. George Bank Riverwood Branch "
+      },
+      "id": "637"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9524955,
+          151.0492002,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Riverwood Plaza "
+      },
+      "id": "639"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9555706470078,
+          151.138430256018,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Volkswagon Rockdale"
+      },
+      "id": "641"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.872191531633,
+          151.274716181637,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bake Bar Rose Bay "
+      },
+      "id": "643"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8702407092364,
+          151.268900182783,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chargril Charlies Rose Bay"
+      },
+      "id": "645"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8704476806557,
+          151.270128739719,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Rose Bay"
+      },
+      "id": "647"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8655405099419,
+          151.278615498811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Rose Bay "
+      },
+      "id": "649"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8655405099419,
+          151.278615498811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Rose Bay "
+      },
+      "id": "651"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8655048560874,
+          151.279355789641,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Rose Bay "
+      },
+      "id": "653"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.873704047999,
+          151.273081538607,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dominos Pizza Rose Bay"
+      },
+      "id": "655"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9106055915328,
+          151.205670320005,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Black and Gold Espresso"
+      },
+      "id": "657"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Roselands"
+      },
+      "id": "659"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Roselands"
+      },
+      "id": "661"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Roselands"
+      },
+      "id": "663"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Commonwealth Bank Roselands"
+      },
+      "id": "665"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fruit World Roselands"
+      },
+      "id": "667"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fruit World Roselands"
+      },
+      "id": "669"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fruit World Roselands"
+      },
+      "id": "671"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kmart Roselands"
+      },
+      "id": "673"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Priceline Roselands"
+      },
+      "id": "675"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roselands Shopping Centre"
+      },
+      "id": "677"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roselands Shopping Centre"
+      },
+      "id": "679"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9348734325873,
+          151.069103153176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roselands Shopping Centre"
+      },
+      "id": "681"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9359452252771,
+          151.069484351375,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Emporium"
+      },
+      "id": "683"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9359452252771,
+          151.069484351375,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Emporium"
+      },
+      "id": "685"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9359452252771,
+          151.069484351375,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Coffee Emporium"
+      },
+      "id": "687"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8735945276633,
+          151.22789827936,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lot 19 Cafe"
+      },
+      "id": "689"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8735945276633,
+          151.22789827936,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lot 19 Cafe"
+      },
+      "id": "691"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8121587762822,
+          151.041990611701,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Rydalmere"
+      },
+      "id": "693"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8121587762822,
+          151.041990611701,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aldi Rydalmere"
+      },
+      "id": "695"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8494029432987,
+          150.939895058047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oregano's Lebanese Bakery and Cafe"
+      },
+      "id": "697"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8522922,
+          151.0056493,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Speedway South Granville Petrol Station"
+      },
+      "id": "699"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9777431312323,
+          151.104107349702,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cure Cafe"
+      },
+      "id": "701"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9743772864782,
+          151.11299955724,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Flame Coal Chicken"
+      },
+      "id": "703"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727316789525,
+          151.09328118135,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemist Warehouse Strathfield"
+      },
+      "id": "705"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8721934,
+          151.0928754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Return and Earn TOMRA Rever Vending Machine "
+      },
+      "id": "707"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727227660038,
+          151.093549402198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Strathfield Plaza"
+      },
+      "id": "709"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727227660038,
+          151.093549402198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Strathfield Plaza"
+      },
+      "id": "711"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727227660038,
+          151.093549402198,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Strathfield Plaza"
+      },
+      "id": "713"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727851274147,
+          151.093227538589,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Strathfield Plaza Medical Practice"
+      },
+      "id": "715"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8727653443946,
+          151.093699451646,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Strathfield Plaza"
+      },
+      "id": "717"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918695,
+          151.0809533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crossways Hotel"
+      },
+      "id": "719"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918695,
+          151.0809533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crossways Hotel"
+      },
+      "id": "721"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918695,
+          151.0809533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crossways Hotel"
+      },
+      "id": "723"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918695,
+          151.0809533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crossways Hotel"
+      },
+      "id": "725"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8918695,
+          151.0809533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crossways Hotel"
+      },
+      "id": "727"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8888886,
+          151.0885551,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dan Murphys Strathfield"
+      },
+      "id": "729"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8730183550325,
+          151.207031569844,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Town Hall"
+      },
+      "id": "731"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8730183550325,
+          151.207031569844,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woolworths Town Hall"
+      },
+      "id": "733"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8497911,
+          151.0599609,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Burger and Salad Haus"
+      },
+      "id": "735"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8469070746376,
+          151.066450409771,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Locker Room - Patrons who dined indoors on the ground floor"
+      },
+      "id": "737"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7960420898407,
+          151.045126880364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Valley Pharmacy"
+      },
+      "id": "739"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7891454702536,
+          150.949060379083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toongabbie Construction "
+      },
+      "id": "741"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7891454702536,
+          150.949060379083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toongabbie Construction "
+      },
+      "id": "743"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7891454702536,
+          150.949060379083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toongabbie Construction "
+      },
+      "id": "745"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7891454702536,
+          150.949060379083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toongabbie Construction "
+      },
+      "id": "747"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7891454702536,
+          150.949060379083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Toongabbie Construction "
+      },
+      "id": "749"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8814829490894,
+          151.196970000969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Express/Shell Ultimo"
+      },
+      "id": "751"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8814829490894,
+          151.196970000969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Express/Shell Ultimo"
+      },
+      "id": "753"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8778713797692,
+          150.979068086815,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bunnings Villawood"
+      },
+      "id": "755"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7332573132747,
+          151.099100455356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney Adventist Hospital - Tulloch Hub area (where the Main Entrance is located)"
+      },
+      "id": "757"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7332573132747,
+          151.099100455356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sydney Adventist Hospital - Tulloch Hub area (where the Main Entrance is located)"
+      },
+      "id": "759"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "761"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "763"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "765"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "767"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "769"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "771"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          51.2151740846384,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "773"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo"
+      },
+      "id": "775"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo Levels 11 and 12"
+      },
+      "id": "777"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8978971313992,
+          151.215174084638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meriton Suites Waterloo Levels 11 and 12"
+      },
+      "id": "779"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9013851539797,
+          151.254643779603,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charing Cross Pizza"
+      },
+      "id": "781"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9013851539797,
+          151.254643779603,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charing Cross Pizza"
+      },
+      "id": "783"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8502748,
+          150.895809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Beds R Us Wetherill Park"
+      },
+      "id": "785"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.7764893323563,
+          151.052058026943,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Carlingford Court Shopping Centre"
+      },
+      "id": "787"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8585301648317,
+          150.898706828805,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chemistworks Wetherill Park"
+      },
+      "id": "789"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8587307,
+          150.8964155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles Wetherill Park Stockland Wetherill Park "
+      },
+      "id": "791"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8573004189054,
+          150.898971855793,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JB HiFi Wetherill Park"
+      },
+      "id": "793"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8585479645128,
+          150.898610266538,
+          0
+        ]
+      },
+      "properties": {
+        "name": "JD Sports Shop, Stocklands Wetherill Park Shopping Centre "
+      },
+      "id": "795"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8570002484108,
+          150.899733740161,
+          0
+        ]
+      },
+      "properties": {
+        "name": "KFC Wetherill Park"
+      },
+      "id": "797"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8587307,
+          150.8964155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vodafone Wetherill Park "
+      },
+      "id": "799"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.888302,
+          151.2347975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bistro Moncur Woollahra Hotel"
+      },
+      "id": "801"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.8874702,
+          151.2379032,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jims Cellars"
+      },
+      "id": "803"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.904986623828,
+          151.212788526229,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles East Village Shopping Centre"
+      },
+      "id": "805"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.904986623828,
+          151.212788526229,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles East Village Shopping Centre"
+      },
+      "id": "807"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.904986623828,
+          151.212788526229,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles East Village Shopping Centre"
+      },
+      "id": "809"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.905017789731,
+          151.212745610884,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coles East Village Shopping Centre"
+      },
+      "id": "811"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9056283537992,
+          151.212714169313,
+          0
+        ]
+      },
+      "properties": {
+        "name": "East Village Shopping Centre"
+      },
+      "id": "813"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9056283537992,
+          151.212714169313,
+          0
+        ]
+      },
+      "properties": {
+        "name": "East Village Shopping Centre"
+      },
+      "id": "815"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9054056866992,
+          151.213572474947,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MaLa Tang Restaurant "
+      },
+      "id": "817"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.9054056866992,
+          151.213572474947,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MaLa Tang Restaurant "
+      },
+      "id": "819"
+    }
+  ]
+}
