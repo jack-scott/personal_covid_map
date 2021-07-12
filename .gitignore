@@ -1,2 +1,5 @@
 covid_locations/*
+!covid_locations/.gitkeep 
+
 personal_location/*
+!personal_location/.gitkeep 
