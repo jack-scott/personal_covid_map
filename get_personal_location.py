@@ -20,7 +20,7 @@ def create_url(_year, _month, _day):
 # gets and saves results from a given URL
 def download_and_save(url, filename, save_folder, filetype=".kml"):
     # it appears that you have to open the URL through a browser so that Google can access the right cookies
-    # its a little bit dirty since this will spawn and close 14 tabs and put all of the location data in your
+    # its a little bit dirty since this will spawn and close a tab everytime it is called and put all of the location data in your
     # downloads folder
     # imagine just making it easy Google... like an API or something
     webbrowser.open(url)
